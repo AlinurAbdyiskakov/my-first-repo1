@@ -1,3 +1,7 @@
 body{
     background-color: lawngreen;
 }
+a{
+    color: black;
+    text-decoration: none;
+}
